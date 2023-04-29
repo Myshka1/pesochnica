@@ -1,3 +1,3 @@
 class TestJs {
-    test
+    test1
 }
